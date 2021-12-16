@@ -1,0 +1,83 @@
+#field{
+
+    background: aqua;
+    position: fixed;
+    width: 250px;
+    height: 400px;
+    bottom: 0px;
+    right: 20px;
+    
+}
+
+#scroll{
+
+    background: gray;
+    position: fixed;
+    width: 230px;
+    height: 310px;
+    bottom: 50px;
+    right: 30px;
+    /* overflow-y:scroll; */
+    /* overflow:hidden;
+    overflow-y:scroll; */
+}
+
+#title{
+
+    background: red;
+    position: fixed;
+    width: 230px;
+    height: 30px;
+    bottom: 365px;
+    right: 30px;
+    
+}
+
+#textbox{
+
+    background: green;
+    position: fixed;
+    width: 230px;
+    height: 40px;
+    bottom: 5px;
+    right: 30px;
+    
+}
+
+.bot{
+
+}
+
+.me{
+    
+}
+
+#bottext{
+
+    background: pink;
+    position: relative;
+    width: 175px;
+    left: 50px;
+    font-size: small;
+}
+#photo{
+    position: relative;
+    left: 5px;
+    top: 35px;
+}
+
+
+#metext{
+
+    background: purple;
+    position: relative;
+    font-size: small;
+    width: 180px;
+    top: 30px;
+    left: 5px;
+}
+#photo2{
+    position: relative;
+    left: 180px;
+    top: 0px;
+}
